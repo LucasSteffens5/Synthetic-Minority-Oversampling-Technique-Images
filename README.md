@@ -1,5 +1,5 @@
 # Synthetic-Minority-Oversampling-Technique-Images
-Utilizando SMOTE para criar amostras sintéticas de lesões de pele da base de dados ISIC.
+Utilizando SMOTE para criar amostras sintéticas de lesões de pele da base de dados <a href="https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery">ISIC</a>.
 
 Para utilizar basta alterar os endereços do diretorio para os da sua máquina.
 
