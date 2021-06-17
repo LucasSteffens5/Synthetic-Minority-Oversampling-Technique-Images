@@ -5,7 +5,7 @@ Para utilizar basta alterar os endereços do diretorio para os da sua máquina.
 
 
 
-# Algumas das imagens reamostradas
+# Algumas das imagens geradas pelo SMOTE reamostradas
 
 
 <img src="https://github.com/LucasSteffens5/Synthetic-Minority-Oversampling-Technique-Images/blob/main/malignasGeradasSMOTEBordeline.png">
